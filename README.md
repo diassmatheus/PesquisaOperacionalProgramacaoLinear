@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Otimização - Implementando a programação linear </b> 
 
-####  📓 <a href="link do notebook">Notebook</a> desenvolvido durante o curso 
+####  📓 <a href="https://github.com/diassmatheus/PesquisaOperacionalProgramacaoLinear/blob/main/Projeto_completo_Otimiza%C3%A7%C3%A3o_Programa%C3%A7%C3%A3o_Linear.ipynb">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/otimizacao-implementando-programacao-linear">Alura</a> 
 ####  ⏰ Duração: 8h 
 ####  📜 Conteúdo:
