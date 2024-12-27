@@ -1,4 +1,4 @@
-# <p align="center"> <b> Curso: Otimização: implementando a programação linear </b> 
+# <p align="center"> <b> Curso: Otimização - Implementando a programação linear </b> 
 
 ####  📓 <a href="link do notebook">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/otimizacao-implementando-programacao-linear">Alura</a> 
